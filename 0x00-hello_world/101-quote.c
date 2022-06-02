@@ -2,15 +2,15 @@
 #include <unistd.h>
 
 /**
- * 
+ * main - prints out quote in the last part in standar error.
  *
- * Printf not allowed
+ * Description: 'and that piece of art is useful" - Dora Korpar, 2015-10-19'
  *
- *  It Always return 1
+ * Return: Always 1 (on Success)
  */
 
 int main(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
+	write(1, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 }
