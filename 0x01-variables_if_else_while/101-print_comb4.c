@@ -9,21 +9,21 @@
   */
 int main(void)
 {
-	int c, i, k;
+	int a, i, j;
 
-	for (c = '0'; c <= '9'; c++)
+	for (a = '0'; a <= '9'; a++)
 	{
 		for (i = '0'; i <= '9'; i++)
 		{
-			for (k = '0'; k <= '9'; k++)
+			for (j = '0'; j <= '9'; j++)
 			{
-				if (c < i && i < k)
+				if (a < i && i < j)
 				{
-					putchar(c);
+					putchar(a);
 					putchar(i);
-					putchar(k);
+					putchar(j);
 
-					if (c != '7')
+					if (a != '7')
 					{
 						putchar(',');
 						putchar(' ');
