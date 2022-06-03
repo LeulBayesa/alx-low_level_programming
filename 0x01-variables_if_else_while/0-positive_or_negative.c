@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - print whether the number stored in the variable n is positive or negative.
+* main - print whether the number is positive or negative.
 *
-* Description: will assign a random number to the variable n each time it is executed.
+* Description: assigning a random num to the variable n each time it's executed.
 *
 * Return: Always 0 (Success)
 */
