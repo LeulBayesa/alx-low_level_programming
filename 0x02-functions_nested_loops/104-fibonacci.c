@@ -2,7 +2,7 @@
 
 /**
  * main - Finds and prints the first 98 Fibonacci numbers.
- * 
+ *
  * Description: Prints the first 98 Fibonacci numbers.
  *
  * Return: ALways 0 (Success)
