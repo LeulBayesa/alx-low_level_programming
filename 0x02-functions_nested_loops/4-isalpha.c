@@ -6,8 +6,8 @@
  * @c: An input character to be checked
  *
  * Description: a function that checks for alphabetic character.
- * 
- * 
+ *
+ *
  * Return: 1 or 0 .
  */
 
