@@ -3,6 +3,7 @@
 /**
  * _islower -  a function that checks for lowercase character.
  *
+ *Description:  a function that checks lowercase.
  *
  * Return: Always 0 (Success).
  */
