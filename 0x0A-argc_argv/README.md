@@ -1,3 +1,3 @@
-#Arguments to main
+#Arguments_to_main
 
 argc and argv
