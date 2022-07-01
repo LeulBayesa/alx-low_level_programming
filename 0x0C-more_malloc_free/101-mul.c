@@ -9,7 +9,7 @@
 int main(int argc, char *argv[])
 {
 
-	long long int mul;
+	long char mul;
 	int num1, num2;
 
 
